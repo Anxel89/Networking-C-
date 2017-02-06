@@ -1,0 +1,15 @@
+D:\SSE\Projects\Client\Client\bin\Debug\Client.exe.config
+D:\SSE\Projects\Client\Client\bin\Debug\Client.exe
+D:\SSE\Projects\Client\Client\bin\Debug\Client.pdb
+D:\SSE\Projects\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SSE\Projects\Client\Client\obj\Debug\Client.exe
+D:\SSE\Projects\Client\Client\obj\Debug\Client.pdb
+D:\SSE\Projects\Simple TCP\Client\Client\bin\Debug\Client.exe.config
+D:\SSE\Projects\Simple TCP\Client\Client\obj\Debug\Client.exe
+D:\SSE\Projects\Simple TCP\Client\Client\obj\Debug\Client.pdb
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client\bin\Debug\Client.exe.config
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client\obj\Debug\Client.exe
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client\obj\Debug\Client.pdb
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client\bin\Debug\Client.exe
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client\bin\Debug\Client.pdb
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

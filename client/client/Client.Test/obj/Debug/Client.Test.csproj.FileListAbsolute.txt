@@ -1,0 +1,8 @@
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client.Test\bin\Debug\Client.Test.dll
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client.Test\bin\Debug\Client.Test.pdb
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client.Test\bin\Debug\Client.exe
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client.Test\bin\Debug\Client.pdb
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client.Test\obj\Debug\Client.Test.csprojResolveAssemblyReference.cache
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client.Test\obj\Debug\Client.Test.dll
+C:\Users\anxel\Downloads\Examples\Simple TCP\Client\Client.Test\obj\Debug\Client.Test.pdb
