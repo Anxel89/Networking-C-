@@ -1,0 +1,8 @@
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser.Test\obj\Debug\API_JSON_Parser.Test.csprojResolveAssemblyReference.cache
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser.Test\bin\Debug\API_JSON_Parser.Test.dll
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser.Test\bin\Debug\API_JSON_Parser.Test.pdb
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser.Test\bin\Debug\API_JSON_Parser.exe
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser.Test\bin\Debug\API_JSON_Parser.pdb
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser.Test\obj\Debug\API_JSON_Parser.Test.dll
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser.Test\obj\Debug\API_JSON_Parser.Test.pdb

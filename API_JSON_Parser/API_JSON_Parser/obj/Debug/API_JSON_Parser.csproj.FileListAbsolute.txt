@@ -1,0 +1,6 @@
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser\bin\Debug\API_JSON_Parser.exe.config
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser\bin\Debug\API_JSON_Parser.exe
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser\bin\Debug\API_JSON_Parser.pdb
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser\obj\Debug\API_JSON_Parser.csprojResolveAssemblyReference.cache
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser\obj\Debug\API_JSON_Parser.exe
+c:\users\anxel\documents\visual studio 2015\Projects\API_JSON_Parser\API_JSON_Parser\obj\Debug\API_JSON_Parser.pdb
